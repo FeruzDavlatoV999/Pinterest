@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Developer/Desktop/Pinterest/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Developer/Desktop/Pinterest/app/src/main/res/layout/fragment_photo_detail.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Developer/Desktop/Pinterest/app/src/main/res/layout/fragment_profile.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Developer/Desktop/Pinterest/app/src/main/res/layout/item_profile.xml" value="0.1897644927536232" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Pinterest/app/src/main/res/drawable/bot_nav_background.xml" value="0.147" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Pinterest/app/src/main/res/drawable/edittext_search_background.xml" value="0.147" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Pinterest/app/src/main/res/drawable/ic_back.xml" value="0.147" />

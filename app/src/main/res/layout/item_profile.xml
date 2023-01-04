@@ -16,7 +16,7 @@
             android:layout_height="24dp"
             android:background="@drawable/ic_profile"
             android:gravity="center"
-            android:text="J"
+            android:text="F"
             android:textColor="@color/white"
             android:textSize="16sp" />
 

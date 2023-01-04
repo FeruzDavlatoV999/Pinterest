@@ -45,7 +45,7 @@ class ApiClient(var context: Context) {
         })
         .addInterceptor(Interceptor { chain ->
             val builder = chain.request().newBuilder()
-            builder.header("Authorization", "Client-ID 6nlmANUApAAm_Kqer-xedtHQ61JRnzuZD3AmBaHhjoQ")
+            builder.header("Authorization", "Client-ID tY8g5lkvosrDyihcT-lA-L6CVkkCvIOaXu-tou6CAho")
             chain.proceed(builder.build())
         })
         .build()
@@ -57,7 +57,7 @@ class ApiClient(var context: Context) {
                 val builder = request.newBuilder()
                 builder.addHeader(
                     "Authorization",
-                    "Client-ID 6nlmANUApAAm_Kqer-xedtHQ61JRnzuZD3AmBaHhjoQ"
+                    "Client-ID tY8g5lkvosrDyihcT-lA-L6CVkkCvIOaXu-tou6CAho"
                 )
                 request = builder.build()
                 chain.proceed(request)
